@@ -1,5 +1,5 @@
 # Crypto Clustering
-This project will use the unsupervised learning method to cluster cryptocurrency portfolio.
+This project uses the unsupervised learning to cluster cryptocurrency portfolio.
 
 **Disclaimer:** Past performance does not guarantee future performance.
 
